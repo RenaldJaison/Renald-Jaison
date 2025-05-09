@@ -16,9 +16,11 @@ I'm a passionate and curious **Computer Science student** with a strong interest
 - 🔧 Tools: `Git`, `GitHub`, `VS Code`, `Postman`
 - 📚 Currently learning: `TypeScript`, `Docker`
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## 📂 Projects
+- Responsive Resume Web page:This project is a responsive personal resume website built using HTML, CSS, and Bootstrap. It showcases my personal information, educational background, skills, projects, and contact details in a clean, mobile-friendly layout.
 
----
+## 📫 Contact Me
+- Email: renaldjaison@gmail.com
+- LinkedIn: www.linkedin.com/in/renald-jaison
 
 Thanks for visiting my profile! 🌟
